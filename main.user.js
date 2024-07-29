@@ -16,7 +16,7 @@
         const container = document.createElement('div');
         container.style.position = 'fixed';
         container.style.top = '10px';
-        container.style.left = '10px';
+        container.style.left = '58%';
         container.style.zIndex = '9999';
         container.style.display = 'flex';
         container.style.alignItems = 'center';
